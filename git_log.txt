@@ -1,0 +1,54 @@
+commit dc59bda47f6ddc7461b09a9279de244618f35aae
+Merge: 0a7481a 25cc245
+Author: kevsonnn23 <150076395+kevsonnn23@users.noreply.github.com>
+Date:   Thu Sep 10 22:48:39 2026 -0700
+
+    Merge pull request #2 from kevsonnn23/index-fix
+    
+    Update index.html
+
+commit 25cc245fe8becfecd38618ea0f857404ddf2570f
+Merge: 1453beb 0a7481a
+Author: kevsonnn23 <150076395+kevsonnn23@users.noreply.github.com>
+Date:   Thu Sep 10 22:48:26 2026 -0700
+
+    Merge branch 'main' into index-fix
+
+commit 1453beb117ddc734fae777fe4f78885767e9e7af
+Author: kevsonnn23 <150076395+kevsonnn23@users.noreply.github.com>
+Date:   Thu Sep 10 22:38:12 2026 -0700
+
+    Update index.html
+
+commit 0a7481a44de51dae146abcee0c8ddd3fff715657
+Author: kevsonnn23 <150076395+kevsonnn23@users.noreply.github.com>
+Date:   Thu Sep 10 22:37:01 2026 -0700
+
+    Update index.html
+
+commit ae711b441eeab3eeb76b3fa7aa930d4cd4d28853
+Author: kevsonnn23 <150076395+kevsonnn23@users.noreply.github.com>
+Date:   Thu Sep 10 21:24:57 2026 -0700
+
+    Create README.md
+
+commit a462a35747d6dc774c43ce2a47fd1f7f025a97e3
+Merge: 1d2bfc0 02a079a
+Author: kevsonnn23 <150076395+kevsonnn23@users.noreply.github.com>
+Date:   Thu Sep 10 21:16:23 2026 -0700
+
+    Merge pull request #1 from kevsonnn23/info-fill
+    
+    fill in name and hobby
+
+commit 02a079a65973badd13e2ba589769ed1109293f00
+Author: kevsonnn23 <sonkevin109@gmail.com>
+Date:   Fri Sep 4 13:14:50 2026 -0700
+
+    fill in name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
